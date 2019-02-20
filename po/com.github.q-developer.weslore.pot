@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.q-developer.weslore package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.q-developer.weslore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-21 11:11+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/com.github.q-developer.weslore.desktop.in:3
+msgid "Weslore"
+msgstr ""
+
+#: data/com.github.q-developer.weslore.desktop.in:4
+msgid "The Battle for Wesnoth blog"
+msgstr ""
+
+#: data/com.github.q-developer.weslore.desktop.in:5
+msgid "A collection of The Battle for Wesnoth lores by adventurers"
+msgstr ""
+
+#: data/com.github.q-developer.weslore.desktop.in:8
+msgid "com.github.q-developer.weslore"
+msgstr ""
+
+#: data/com.github.q-developer.weslore.desktop.in:11
+msgid "The Battle for Wesnoth;Lore;Adventure;"
+msgstr ""
