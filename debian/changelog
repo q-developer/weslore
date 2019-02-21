@@ -1,6 +1,7 @@
-com.github.q-developer.weslore (19.2.21) UNRELEASED; urgency=medium
+com.github.q-developer.weslore (19.2.210) UNRELEASED; urgency=medium
 
   * The beginning of an app
   * Fix wrong id & missing fields in Appstream data
+  * Add screenshot + developer name to Appstream data
 
- -- Quyet <mr.quyetdx@gmail.com>  Thu, 21 Feb 2019 14:05:55 +0700
+ -- Quyet <mr.quyetdx@gmail.com>  Thu, 21 Feb 2019 16:55:01 +0700
