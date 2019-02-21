@@ -1,0 +1,15 @@
+Source: com.github.q-developer.weslore
+Section: x11
+Priority: extra
+Maintainer: Quyet <mr.quyetdx@gmail.com>
+Build-Depends: debhelper (>= 10.5.1),
+               gettext,
+               libgtk-3-dev (>= 3.10),
+               meson,
+               valac (>= 0.28.0)
+Standards-Version: 4.1.1
+
+Package: com.github.q-developer.weslore
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: A collection of The Battle for Wesnoth lores by adventurers.
