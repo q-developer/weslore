@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Quyet <mr.quyetdx@gmail.com> -->
 <component type="desktop">
-	<id>com.github.q-developer.weslore.desktop</id>
+	<id>com.github.q-developer.weslore</id>
 	<metadata_license>CC0-1.0</metadata_license>
-	<project_license>GPL-3.0-or-later</project_license>
+  <name>Weslore</name>
+  <summary>The Battle for Wesnoth blog</summary>
 	<description>
+	  <p>A collection of The Battle for Wesnoth lores by adventurers.</p>
 	</description>
 </component>
