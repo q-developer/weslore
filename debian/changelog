@@ -1,8 +1,10 @@
-com.github.q-developer.weslore (19.2.211) UNRELEASED; urgency=medium
+com.github.q-developer.weslore (19.2.212) UNRELEASED; urgency=medium
 
   * The beginning of an app
   * Fix wrong id & missing fields in Appstream data
   * Add screenshot + developer name to Appstream data
   * Fix missing screenshots tag in Appstream data
+  * Remove p tag in Appstream to conform the 'paragraph might be too short (< 80 characters)' from 
+appstreamcli validate
 
- -- Quyet <mr.quyetdx@gmail.com>  Thu, 21 Feb 2019 18:05:05 +0700
+ -- Quyet <mr.quyetdx@gmail.com>  Thu, 21 Feb 2019 18:10:53 +0700
