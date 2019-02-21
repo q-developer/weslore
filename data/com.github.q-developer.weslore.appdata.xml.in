@@ -7,10 +7,12 @@
   <name>Weslore</name>
   <developer_name>q-developer</developer_name>
   <summary>The Battle for Wesnoth blog</summary>
-  <screenshot type="default">
-    <image>https://raw.githubusercontent.com/q-developer/weslore/master/data/screenshot.png</image>
-  </screenshot>
-	<description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/q-developer/weslore/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <description>
 	  <p>A collection of The Battle for Wesnoth lores by adventurers.</p>
 	</description>
   <content_rating type="oars-1.1">
