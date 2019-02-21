@@ -2,10 +2,18 @@
 <!-- Copyright 2019 Quyet <mr.quyetdx@gmail.com> -->
 <component type="desktop">
 	<id>com.github.q-developer.weslore</id>
+  <project_license>GPL-3.0+</project_license>
 	<metadata_license>CC0-1.0</metadata_license>
   <name>Weslore</name>
+  <developer_name>q-developer</developer_name>
   <summary>The Battle for Wesnoth blog</summary>
+  <screenshot type="default">
+    <image>https://raw.githubusercontent.com/q-developer/weslore/master/data/screenshot.png</image>
+  </screenshot>
 	<description>
 	  <p>A collection of The Battle for Wesnoth lores by adventurers.</p>
 	</description>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">moderate</content_attribute>
+  </content_rating>
 </component>
