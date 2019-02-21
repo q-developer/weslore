@@ -1,5 +1,6 @@
-com.github.q-developer.weslore (19.2.20) UNRELEASED; urgency=medium
+com.github.q-developer.weslore (19.2.21) UNRELEASED; urgency=medium
 
-  * The beginning of an app.
+  * The beginning of an app
+  * Fix wrong id & missing fields in Appstream data
 
- -- Quyet <mr.quyetdx@gmail.com>  Wed, 20 Feb 2019 16:56:59 +0700
+ -- Quyet <mr.quyetdx@gmail.com>  Thu, 21 Feb 2019 14:05:55 +0700
