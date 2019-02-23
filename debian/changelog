@@ -1,4 +1,4 @@
-com.github.q-developer.weslore (19.2.23) UNRELEASED; urgency=medium
+com.github.q-developer.weslore (0.0.6) UNRELEASED; urgency=medium
 
   * The beginning of an app
   * Fix wrong id & missing fields in Appstream data
@@ -7,4 +7,4 @@ com.github.q-developer.weslore (19.2.23) UNRELEASED; urgency=medium
   * Remove p tag in Appstream to conform the 'paragraph might be too short (< 80 characters)' from appstreamcli validate
   * Fix wrong Categories in desktop file
 
- -- Quyet <mr.quyetdx@gmail.com>  Sat, 23 Feb 2019 09:59:46 +0700
+ -- Quyet <mr.quyetdx@gmail.com>  Sat, 23 Feb 2019 10:29:44 +0700
