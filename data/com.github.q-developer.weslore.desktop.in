@@ -2,7 +2,7 @@
 Name=Weslore
 GenericName=The Battle for Wesnoth blog
 Comment=A collection of The Battle for Wesnoth lores by adventurers
-Categories=Games;Writing & Language;
+Categories=Literature;Languages;
 Exec=com.github.q-developer.weslore
 Icon=com.github.q-developer.weslore
 Terminal=false
