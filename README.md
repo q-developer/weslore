@@ -1,3 +1,3 @@
 ## Welcome to Weslore
-Click the images to explore:
-[!["Open Campaign lores"](data/campaigns/Campaigns.png?raw=true "View Campaign lores")](data/campaigns/CAMPAIGNS.md)
+Click these images to explore:
+[!["Open Campaign lores"](data/campaigns/Campaigns.png?raw=true "Open Campaign lores")](data/campaigns/CAMPAIGNS.md)
