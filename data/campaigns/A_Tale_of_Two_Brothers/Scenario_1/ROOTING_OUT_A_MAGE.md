@@ -13,4 +13,4 @@
 [AToTB-Rooting Out a Mage replay](AToTB-Rooting_Out_a_Mage_replay.gz?raw=true "Download replay")
 
 ##### Replay video
-[![Rooting Out a Mage replay video](Rooting_Out_a_Mage-thumbnail.gif?raw=true "Watch video")](Rooting_Out_a_Mage_replay.webm?raw=true)
+[![Rooting Out a Mage replay video](Rooting_Out_a_Mage-thumbnail.gif?raw=true "Watch video")](AToTB-Rooting_Out_a_Mage_replay.webm?raw=true)
