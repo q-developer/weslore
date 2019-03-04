@@ -3,8 +3,6 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
-  collections: true
-collection:
-  - data
+  collections: false
 include:
   - README.md
