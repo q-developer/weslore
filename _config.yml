@@ -4,5 +4,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+collections:
+  - site
 include:
   - README.md
